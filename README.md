@@ -1,6 +1,9 @@
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="30" width="30" alt="hi" />, Ayush Kayasth here</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&random=false&width=435&lines=Aspiring+Cyber+Defender%F0%9F%9B%A1%EF%B8%8F;Application+developer%F0%9F%93%B1" alt="Typing SVG" /></a>
-<p><img align="center" height="500" width="1050" src="https://s7.ezgif.com/tmp/ezgif-7-4c28a5e89b.gif"></p>
+
+<!--![git_pf](https://github.com/Ayushkayasth/Ayushkayasth/assets/112411379/265309d5-3a7c-41d2-a39f-d6835e6e49c8) !-->
+
+<p><img align="center" height="500" width="1050" src="https://github.com/Ayushkayasth/Ayushkayasth/assets/112411379/265309d5-3a7c-41d2-a39f-d6835e6e49c8"></p>
 <!-- ![git_pf](https://github.com/Ayushkayasth/Ayushkayasth/assets/112411379/f51bdbd1-887f-4b41-872a-74e2d848d2ef) !-->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ayushkayasth&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkayasth" /> </p>
