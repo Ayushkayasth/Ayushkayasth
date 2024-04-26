@@ -3,7 +3,7 @@
 
 <!--![git_pf](https://github.com/Ayushkayasth/Ayushkayasth/assets/112411379/265309d5-3a7c-41d2-a39f-d6835e6e49c8) !-->
 
-<p><img align="center" height="300" width="1050" src="https://github.com/Ayushkayasth/Ayushkayasth/assets/112411379/265309d5-3a7c-41d2-a39f-d6835e6e49c8"></p>
+<p><img align="center" height="200" width="1050" src="https://github.com/Ayushkayasth/Ayushkayasth/assets/112411379/265309d5-3a7c-41d2-a39f-d6835e6e49c8"></p>
 <!-- ![git_pf](https://github.com/Ayushkayasth/Ayushkayasth/assets/112411379/f51bdbd1-887f-4b41-872a-74e2d848d2ef) !-->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ayushkayasth&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkayasth" /> </p>
